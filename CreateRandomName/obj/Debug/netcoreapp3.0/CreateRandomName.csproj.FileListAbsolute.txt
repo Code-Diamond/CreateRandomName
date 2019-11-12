@@ -1,0 +1,11 @@
+C:\Users\root\source\repos\CreateRandomName\CreateRandomName\bin\Debug\netcoreapp3.0\CreateRandomName.exe
+C:\Users\root\source\repos\CreateRandomName\CreateRandomName\bin\Debug\netcoreapp3.0\CreateRandomName.deps.json
+C:\Users\root\source\repos\CreateRandomName\CreateRandomName\bin\Debug\netcoreapp3.0\CreateRandomName.runtimeconfig.json
+C:\Users\root\source\repos\CreateRandomName\CreateRandomName\bin\Debug\netcoreapp3.0\CreateRandomName.runtimeconfig.dev.json
+C:\Users\root\source\repos\CreateRandomName\CreateRandomName\bin\Debug\netcoreapp3.0\CreateRandomName.dll
+C:\Users\root\source\repos\CreateRandomName\CreateRandomName\bin\Debug\netcoreapp3.0\CreateRandomName.pdb
+C:\Users\root\source\repos\CreateRandomName\CreateRandomName\obj\Debug\netcoreapp3.0\CreateRandomName.csprojAssemblyReference.cache
+C:\Users\root\source\repos\CreateRandomName\CreateRandomName\obj\Debug\netcoreapp3.0\CreateRandomName.AssemblyInfoInputs.cache
+C:\Users\root\source\repos\CreateRandomName\CreateRandomName\obj\Debug\netcoreapp3.0\CreateRandomName.AssemblyInfo.cs
+C:\Users\root\source\repos\CreateRandomName\CreateRandomName\obj\Debug\netcoreapp3.0\CreateRandomName.dll
+C:\Users\root\source\repos\CreateRandomName\CreateRandomName\obj\Debug\netcoreapp3.0\CreateRandomName.pdb
